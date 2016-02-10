@@ -1,7 +1,7 @@
 # Today I Learned
 
-TILs are short Markdown documents (a few sentences + example code) explaining
-concepts, bits of syntax, commands, or tips we've recently learned.
+> Recording the technologies, skills, concepts and tips I learned today in Markdown format.
+
 
 ## About
 

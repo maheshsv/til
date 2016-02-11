@@ -1,6 +1,6 @@
 # date, datetime, string convertion in Python
 
-Convert from string such as `2016-02-10` to datetime object:
+### Convert from string such as `2016-02-10` to datetime object:
 
 ```python
 > from datetime import datetime
@@ -19,9 +19,9 @@ Format list:
 | %M            | Minute as a zero-padded decimal number. |
 | %S            | Second as a zero-padded decimal number. |
 
-The complete list can be found [here](https://docs.python.org/2/library/datetime.html)
+The complete list can be found [here](https://docs.python.org/2/library/datetime.html).
 
-Conver from date to datetime object and from datetime to date object:
+### Conver from date to datetime object and from datetime to date object:
 
 ```python
 > from datetime import date

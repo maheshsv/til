@@ -18,6 +18,10 @@
 
 * [Find keys matching pattern](redis/find-keys-matching-pattern.md)
 
+### Linux
+
+* [scp](linux/secure-copy.md)
+
 ### Sublime
 
 * [My Sublime Setting](sublime/sublime-setting.json)

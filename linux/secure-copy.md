@@ -29,5 +29,5 @@ scp foo.txt bar.txt username@remotehost:~
 Copy remote host directory to current directory:
 
 ```bash
-scp username@remotehost:/path/to/directory .
+scp -r username@remotehost:/path/to/directory .
 ```

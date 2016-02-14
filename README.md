@@ -14,6 +14,10 @@
 
 * [date, datetime, string convertion in Python](python/date-datetime-string-convert.md)
 
+### Redis
+
+* [Find keys matching pattern](redis/find-keys-matching-pattern.md)
+
 ### Sublime
 
 * [My Sublime Setting](sublime/sublime-setting.json)

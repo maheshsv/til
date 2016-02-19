@@ -13,7 +13,7 @@
 ### Python
 
 * [date, datetime, string convertion in Python](python/date-datetime-string-convert.md)
-* [HTTP Post with requests](python/http-post-with-requests)
+* [HTTP Post with requests](python/http-post-with-requests.md)
 
 ### Redis
 
@@ -30,6 +30,10 @@
 ### Sublime
 
 * [My Sublime Setting](sublime/sublime-setting.json)
+
+### Mac
+
+* [Force empty Trash from Terminal](mac/empty-trash-from-terminal.md)
 
 ## About
 

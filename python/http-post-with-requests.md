@@ -2,7 +2,7 @@
 
 [Requests](http://docs.python-requests.org/en/master/): HTTP for Humans. To do an HTTP Post with Requests:
 
-```
+```python
 import requests
 requests.post('http://httpbin.org/post', data='abc')
 ```

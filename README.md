@@ -7,6 +7,11 @@
 ### Categories
 
 * [Python](#python)
+* [Redis](#redis)
+* [Linux](#linux)
+* [Git](#git)
+* [Sublime](#sublime)
+* [Mac](#sublime)
 
 ---
 

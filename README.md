@@ -11,7 +11,7 @@
 * [Linux](#linux)
 * [Git](#git)
 * [Sublime](#sublime)
-* [Mac](#sublime)
+* [Mac](#mac)
 
 ---
 

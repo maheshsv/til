@@ -40,6 +40,7 @@
 
 * [Force empty Trash from Terminal](mac/empty-trash-from-terminal.md)
 * [Checksum commands](mac/checksum-commands.md)
+* [一些实用命令](mac/mac-practical-commands.md)
 
 ## About
 

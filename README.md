@@ -7,6 +7,7 @@
 ### Categories
 
 * [Python](#python)
+* [MySQL](#mysql)
 * [Redis](#redis)
 * [Linux](#linux)
 * [Git](#git)
@@ -19,6 +20,10 @@
 
 * [date, datetime, string convertion in Python](python/date-datetime-string-convert.md)
 * [HTTP Post with requests](python/http-post-with-requests.md)
+
+### MySQL
+
+* [MySQL command line](mysql/mysql-command-line.md)
 
 ### Redis
 

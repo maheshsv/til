@@ -1,4 +1,4 @@
-# Checksum commands
+# Checksum commands on Mac
 
 * MD5 checksum:
 

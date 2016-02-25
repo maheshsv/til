@@ -8,6 +8,13 @@
 datetime.datetime(2016, 1, 10, 0, 0)
 ```
 
+### String format datetime object:
+
+```python
+> datetime.now().strftime("%A, %d. %B %Y %I:%M%p")
+'Wednesday, 24. February 2015 07:53PM'
+```
+
 Format list:
 
 | Directive     | Meaning       |

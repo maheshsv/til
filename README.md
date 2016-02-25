@@ -6,6 +6,7 @@
 
 ### Categories
 
+* [Elixir](#elixir)
 * [Python](#python)
 * [MySQL](#mysql)
 * [Redis](#redis)
@@ -15,6 +16,10 @@
 * [Mac](#mac)
 
 ---
+
+### Elixir
+
+* [Basic Actor in Elixir](elixir/hello-actor-in-elixir.md)
 
 ### Python
 

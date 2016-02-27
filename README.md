@@ -14,6 +14,7 @@
 * [Git](#git)
 * [Sublime](#sublime)
 * [Mac](#mac)
+* [Misc](#misc)
 
 ---
 
@@ -54,6 +55,10 @@
 * [Checksum commands](mac/checksum-commands.md)
 * [一些实用命令](mac/mac-practical-commands.md)
 * [Mac：在PDF文件里做数字签名](mac/electronically-sign.md)
+
+### Misc
+
+* [Big Data projects](misc/big-data-projects.md)
 
 ## About
 

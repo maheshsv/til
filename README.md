@@ -53,6 +53,7 @@
 * [Force empty Trash from Terminal](mac/empty-trash-from-terminal.md)
 * [Checksum commands](mac/checksum-commands.md)
 * [一些实用命令](mac/mac-practical-commands.md)
+* [Mac：在PDF文件里做数字签名](mac/electronically-sign.md)
 
 ## About
 

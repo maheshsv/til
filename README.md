@@ -8,7 +8,7 @@
 
 * [Elixir](#elixir)
 * [Python](#python)
-* [Programming Languages](#programming languages)
+* [Programming Languages](#programming-languages)
 * [MySQL](#mysql)
 * [Redis](#redis)
 * [Linux](#linux)

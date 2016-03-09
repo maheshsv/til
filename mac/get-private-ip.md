@@ -10,4 +10,4 @@
 $ ipconfig getifaddr en0 # en0 for wireless and en1 for ethernet, en3 for Thunderbolt-to-ethernet adaptor
 ```
 
-* WiFi menubar: `Option + option`
+* WiFi menubar: `Option + WiFi icon`, and we can see the private ip in the list.

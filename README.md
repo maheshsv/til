@@ -64,6 +64,7 @@
 ### Misc
 
 * [Big Data projects](misc/big-data-projects.md)
+* [NGTP Protocol](misc/ngtp-protocol.md)
 
 ## About
 

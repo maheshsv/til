@@ -41,6 +41,7 @@
 ### Redis
 
 * [Find keys matching pattern](redis/find-keys-matching-pattern.md)
+* [Transaction in Redis](redis/transaction-in-redis.md)
 
 ### Linux
 

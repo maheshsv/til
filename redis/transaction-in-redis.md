@@ -20,6 +20,7 @@ In Python, with [redis-py](https://github.com/andymccurdy/redis-py):
 
 ```python
 >>> import redis
+>>> r = redis.Redis()
 >>> pipe = r.pipeline()
 >>> pipe.set('foo', 'bar')
 >>> pipe.incr('counter')

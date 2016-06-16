@@ -3,7 +3,7 @@
 (To login (from unix shell) use -h only if needed.
 
 ```
-# [mysql dir]/bin/mysql -h hostname -u root -p
+$ [mysql dir]/bin/mysql -h hostname -u root -p
 ```
 
 Create a database on the sql server.

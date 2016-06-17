@@ -51,6 +51,7 @@
 ### Linux
 
 * [scp](linux/secure-copy.md)
+* [manage background jobs](linux/manage-background-jobs.md)
 
 ### Git
 

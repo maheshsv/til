@@ -42,6 +42,7 @@
 ### Networking
 
 * [Get HTTP client ephemeral port](networking/get-client-ephemeral-port.md)
+* [DNS: The Good Part Notes](networking/dns-the-good-part-notes.md)
 
 ### Redis
 

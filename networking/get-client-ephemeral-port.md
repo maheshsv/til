@@ -13,6 +13,6 @@ Make a client connection to the server and see what the ephemeral port kernel as
 ('127.0.0.1', 54702)
 ```
 
-In the case above the ephemeral port is 54702 to the socket.
+In this case the ephemeral port is 54702 to the socket.
 
 From [Ruslan's Blog](https://ruslanspivak.com/lsbaws-part3/).

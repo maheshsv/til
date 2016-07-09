@@ -6,6 +6,7 @@
 
 ### Categories
 
+* [Docker](#docker)
 * [Elixir](#elixir)
 * [Python](#python)
 * [Programming Languages](#programming-languages)
@@ -19,6 +20,10 @@
 * [Misc](#misc)
 
 ---
+
+### Docker
+
+* [Some Docker commands and Options](docker/some-docker-commands-and-options.md)
 
 ### Elixir
 

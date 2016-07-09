@@ -19,6 +19,9 @@ info(spacing=15, object=odbchelper)
 ```
 
 `info(odbchelper)` with only one argument, `spacing` default to 10, `collapse` default to 1
+
 `info(odbchelper, 12)`, with two arguments, `spacing` is 12, `collapse` default to 1
+
 `info(odbchelper, collapse=0)` with two arguments, `spacing` default to 10, `collapse` is 0
+
 `info(spacing=15, object=odbchelper)` named arguments can appear in any order

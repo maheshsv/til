@@ -58,6 +58,7 @@
 
 * [scp](linux/secure-copy.md)
 * [manage background jobs](linux/manage-background-jobs.md)
+* [one liner Bash](linux/one-liner-bash)
 
 ### Git
 

@@ -7,6 +7,7 @@
 ### Categories
 
 * [Docker](#docker)
+* [JavaScript](#javascript)
 * [Elixir](#elixir)
 * [Python](#python)
 * [Programming Languages](#programming-languages)
@@ -24,6 +25,10 @@
 ### Docker
 
 * [Some Docker commands and Options](docker/some-docker-commands-and-options.md)
+
+### JavaScript
+
+* [Four ways to call method in JavaScript](javascript/four-ways-to-call-method.md)
 
 ### Elixir
 

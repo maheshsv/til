@@ -29,6 +29,7 @@
 ### JavaScript
 
 * [Four ways to call method in JavaScript](javascript/four-ways-to-call-method.md)
+* [Closure example](javascript/clousure-example.md)
 
 ### Elixir
 

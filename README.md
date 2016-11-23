@@ -49,6 +49,7 @@
 ### MySQL
 
 * [MySQL command line](mysql/mysql-command-line.md)
+* [Find foreign key reference information](mysql/foreign-key-reference.md)
 
 ### Networking
 

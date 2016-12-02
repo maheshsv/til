@@ -1,4 +1,4 @@
-Linux: /etc/init.d and service command
+# Linux: /etc/init.d and service command
 
 `/etc/init.d` is an important dir in Linux and the common way to use it is:
 

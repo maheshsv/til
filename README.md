@@ -72,6 +72,7 @@
 * [manage background jobs](linux/manage-background-jobs.md)
 * [one liner Bash](linux/one-liner-bash)
 * [Linux: /etc/init.d and service command](linux/initd-and-service-command.md)
+* [find and grep command](linux/find-and-grep-command.md)
 
 ### Git
 

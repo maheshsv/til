@@ -6,6 +6,7 @@
 
 ### Categories
 
+* [Algorithm](#algorithm)
 * [Docker](#docker)
 * [JavaScript](#javascript)
 * [Elixir](#elixir)
@@ -21,6 +22,10 @@
 * [Misc](#misc)
 
 ---
+
+### Algorithm
+
+* [Shunting-yard Algorithm](algorithm/shunting-yard-algorithm.md)
 
 ### Docker
 

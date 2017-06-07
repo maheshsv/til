@@ -99,6 +99,10 @@
 * [Big Data projects](misc/big-data-projects.md)
 * [NGTP Protocol](misc/ngtp-protocol.md)
 
+### Vim
+
+* [Copy in Vim](vim/copy-in-vim.md)
+
 ## About
 
 The idea is from: [thoughtbot/til](https://github.com/thoughtbot/til) and [jbranchaud/til](https://github.com/jbranchaud/til).

@@ -12,3 +12,5 @@
 * `v`
 * type `:w !pbcopy` or `:%w !pbcopy` for the whole file
 * paste from clipboard `:r !pbpaste`
+
+### copy the entire file: `ggyG`

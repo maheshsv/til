@@ -20,6 +20,7 @@
 * [Sublime](#sublime)
 * [Mac](#mac)
 * [Misc](#misc)
+* [Vim](#vim)
 
 ---
 

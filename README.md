@@ -106,7 +106,7 @@
 
 ### Tools
 
-* [Redash](tools/redash.md)
+* [BI Tools: Redash, Metabase and Superset](tools/BI-tools.md)
 
 ## About
 

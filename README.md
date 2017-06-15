@@ -21,6 +21,7 @@
 * [Mac](#mac)
 * [Misc](#misc)
 * [Vim](#vim)
+* [Tools](#tools)
 
 ---
 
@@ -102,6 +103,10 @@
 ### Vim
 
 * [Copy in Vim](vim/copy-in-vim.md)
+
+### Tools
+
+* [Redash](tools/redash.md)
 
 ## About
 

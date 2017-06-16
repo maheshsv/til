@@ -7,6 +7,7 @@
 ### Categories
 
 * [Algorithm](#algorithm)
+* [Database](#database)
 * [Docker](#docker)
 * [JavaScript](#javascript)
 * [Elixir](#elixir)
@@ -28,6 +29,10 @@
 ### Algorithm
 
 * [Shunting-yard Algorithm](algorithm/shunting-yard-algorithm.md)
+
+### Database
+
+* [OLTP and OLAP](database/olap-and-oltp.md)
 
 ### Docker
 

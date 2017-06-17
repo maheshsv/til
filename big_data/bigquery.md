@@ -11,4 +11,4 @@ BigQuery is a query service for very large dataset at blazing fast speed provide
 
 [Here](https://cloud.google.com/files/BigQueryTechnicalWP.pdf) you can find more about the technical details, common use cases and comparison with MapReduce.
 
-[^footnote]: [Dremel paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
+<sup>[Dremel paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)</sup>

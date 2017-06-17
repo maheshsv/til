@@ -6,9 +6,9 @@ BigQuery is a query service for very large dataset at blazing fast speed provide
 
 ### Why it's so fast
 
-- Columnar Storage: data is stored in columnar storage fashion.
-- Tree Architecture: use tree structure to dispatch queries and aggregate results.
+- **Columnar Storage**: data is stored in columnar storage fashion.
+- **Tree Architecture**: use tree structure to dispatch queries and aggregate results.
 
 [Here](https://cloud.google.com/files/BigQueryTechnicalWP.pdf) you can find more about the technical details, common use cases and comparison with MapReduce.
 
-<sup>[Dremel paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)</sup>
+<sup>Link to [Dremel paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)</sup>

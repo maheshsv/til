@@ -9,3 +9,5 @@
 
 The logging flow:
 ![logging flow](https://docs.python.org/3.5/_images/logging_flow.png)
+
+<sup>[Python Logging](https://docs.python.org/3.5/howto/logging.html#logging-advanced-tutorial)</sup>

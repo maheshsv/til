@@ -111,6 +111,7 @@
 * [Big Data projects](misc/big-data-projects.md)
 * [NGTP Protocol](misc/ngtp-protocol.md)
 * [Google Cloud Training](misc/gcp-training.md)
+* [曾鸣·智能商业20讲](misc/future-business.md)
 
 ### Vim
 

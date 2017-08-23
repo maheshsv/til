@@ -1,6 +1,6 @@
 # Compare Postgres and MySQL for Analytics
 
-From [here](https://medium.com/holistics-software/why-you-should-use-postgres-over-mysql-for-analytics-purpose-e3df42df35d7)
+Why Postgres is better than MySQL for analytics. From [here](https://medium.com/holistics-software/why-you-should-use-postgres-over-mysql-for-analytics-purpose-e3df42df35d7)
 
 ### Postgres support CTE
 
@@ -25,11 +25,11 @@ WHERE region IN (SELECT region FROM top_regions)
 GROUP BY region, product;
 ```
 
-### Window functions
+### Postgres support window functions
 
 Window functions is very useful when it comes to doing analytics.
 
-### Schema(namespace)
+### Postgres support schema(namespace)
 
 Data pulled from different sources can be categorized to different namespaces.
 

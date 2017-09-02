@@ -65,6 +65,7 @@
 ### Programming Languages
 
 * [Named parameter](programming_languages/named_parameter.md)
+* [Whats Functional Programming All About](programming_languages/functional-programming-all-about.md)
 
 ### MySQL
 

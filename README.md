@@ -125,6 +125,7 @@
 ### Tools
 
 * [BI Tools: Redash, Metabase and Superset](tools/BI-tools.md)
+* [HTTP Tools](tools/http-tools.md)
 
 ## About
 

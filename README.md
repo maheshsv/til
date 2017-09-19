@@ -6,7 +6,7 @@
 
 ### Categories
 
-* [Algorithm](#algorithm)
+* [Algorithms](#algorithms)
 * [Big Data](#big-data)
 * [Database](#database)
 * [Docker](#docker)
@@ -27,10 +27,10 @@
 
 ---
 
-### Algorithm
+### Algorithms
 
-* [Shunting-yard Algorithm](algorithm/shunting-yard-algorithm.md)
-* [Consistent Hashing](algorithm/consistent-hashing.md)
+* [Shunting-yard Algorithm](algorithms/shunting-yard-algorithm.md)
+* [Consistent Hashing](algorithms/consistent-hashing.md)
 
 ### Big Data
 

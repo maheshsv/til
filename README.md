@@ -30,6 +30,7 @@
 ### Algorithm
 
 * [Shunting-yard Algorithm](algorithm/shunting-yard-algorithm.md)
+* [Consistent Hashing](algorithm/consistent-hashing.md)
 
 ### Big Data
 

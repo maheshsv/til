@@ -16,6 +16,7 @@
 * [Programming Languages](#programming-languages)
 * [MySQL](#mysql)
 * [Networking](#networking)
+* [Micro-service](#micro-service)
 * [Redis](#redis)
 * [Linux](#linux)
 * [Git](#git)
@@ -80,6 +81,10 @@
 * [DNS: The Good Part Notes](networking/dns-the-good-part-notes.md)
 * [Redirect from http to https automatically](networking/auto-redirect-http-to-https.md)
 * [Proxy Network](networking/proxy-network.md)
+
+### Micro-service
+
+* [API Gateway: Kong](micro_service/api-gateway-kong.md)
 
 ### Redis
 

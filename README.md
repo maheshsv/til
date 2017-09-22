@@ -37,6 +37,7 @@
 
 ### Big Data
 
+* [Big Data projects](big_data/big-data-projects.md)
 * [BigQuery](big_data/bigquery.md)
 
 ### Database
@@ -120,7 +121,6 @@
 
 ### Misc
 
-* [Big Data projects](misc/big-data-projects.md)
 * [NGTP Protocol](misc/ngtp-protocol.md)
 * [Google Cloud Training](misc/gcp-training.md)
 
@@ -138,7 +138,7 @@
 * [HTTP Tools](tools/http-tools.md)
 
 ### Igetget
-* [曾鸣·智能商业20讲](misc/曾鸣·智能商业20讲.md)
+* [曾鸣·智能商业20讲](igetget/曾鸣·智能商业20讲.md)
 
 ## About
 

@@ -115,8 +115,8 @@
 
 * [Force empty Trash from Terminal](mac/empty-trash-from-terminal.md)
 * [Checksum commands](mac/checksum-commands.md)
-* [实用Mac命令](mac/mac-practical-commands.md)
-* [Mac：在PDF文件里做数字签名](mac/electronically-sign.md)
+* [Practical Mac Commands](mac/mac-practical-commands.md)
+* [Mac：digital signature in PDF](mac/electronically-sign.md)
 * [Get private IP address on Mac](mac/get-private-ip.md)
 
 ### Misc

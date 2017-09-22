@@ -24,7 +24,9 @@
 * [Mac](#mac)
 * [Misc](#misc)
 * [Vim](#vim)
+* [Web](#web)
 * [Tools](#tools)
+* [得到](#igetget)
 
 ---
 
@@ -121,16 +123,22 @@
 * [Big Data projects](misc/big-data-projects.md)
 * [NGTP Protocol](misc/ngtp-protocol.md)
 * [Google Cloud Training](misc/gcp-training.md)
-* [曾鸣·智能商业20讲](misc/曾鸣·智能商业20讲.md)
 
 ### Vim
 
 * [Copy in Vim](vim/copy-in-vim.md)
 
+### Web
+
+* [OAuth 2.0](web/oauth2.md)
+
 ### Tools
 
 * [BI Tools: Redash, Metabase and Superset](tools/BI-tools.md)
 * [HTTP Tools](tools/http-tools.md)
+
+### Igetget
+* [曾鸣·智能商业20讲](misc/曾鸣·智能商业20讲.md)
 
 ## About
 

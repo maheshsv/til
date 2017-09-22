@@ -26,7 +26,7 @@
 * [Vim](#vim)
 * [Web](#web)
 * [Tools](#tools)
-* [得到](#igetget)
+* [得到](#得到)
 
 ---
 
@@ -137,7 +137,7 @@
 * [BI Tools: Redash, Metabase and Superset](tools/BI-tools.md)
 * [HTTP Tools](tools/http-tools.md)
 
-### Igetget
+### 得到
 * [曾鸣·智能商业20讲](igetget/曾鸣·智能商业20讲.md)
 
 ## About

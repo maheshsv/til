@@ -65,7 +65,7 @@
 * [HTTP Post with requests](python/http-post-with-requests.md)
 * [Inheritance of __init__ in Python](python/inherit-init.md)
 * [Python virtualenv and virtualenvwrapper](python/virtualenv-and-virtualenvwrapper.md)
-* [Python Misc(1)](python/python-misc-1.md)
+* [Python Meta](python/python-meta.md)
 * [Python Logging Architecture](python/python-logging-architecture.md)
 
 ### Programming Languages

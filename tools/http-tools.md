@@ -4,6 +4,14 @@
 
 [HTTPie](https://httpie.org/) is a command line HTTP Client.
 
+### `http` Synopsis:
+
+```
+$ http [flags] [METHOD] URL [ITEM [ITEM]]
+```
+
+HTTPie doc is [here](https://httpie.org/doc).
+
 Examples:
 
 ### Get client IP from httpbin:

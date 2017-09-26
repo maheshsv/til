@@ -1,8 +1,8 @@
 # HTTP Tools
 
-[http://httpbin.org/](http://httpbin.org/) is a freely hosted HTTP Client Testing Service.
-
-[HTTPie](https://httpie.org/) is a command line HTTP Client.
+- [http://httpbin.org/](http://httpbin.org/) is a freely hosted HTTP Client Testing Service.
+- [HTTPie](https://httpie.org/) is a command line HTTP Client.
+- [POSTMAN](https://www.getpostman.com/) is yet another great tool for testing and developing HTTP APIs.
 
 ### `http` Synopsis:
 

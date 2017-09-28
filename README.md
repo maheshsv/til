@@ -89,6 +89,7 @@
 ### Micro-service
 
 * [API Gateway: Kong](micro_service/api-gateway-kong.md)
+* [Kong Admin API Models](micro_service/kong-admin-api-models.md)
 
 ### Redis
 

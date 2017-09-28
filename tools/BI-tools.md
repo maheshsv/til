@@ -1,4 +1,4 @@
-# BI Tools: Redash, Metabase and Superset
+# BI Tools: Redash, Metabase and Superset etc
 
 Our company have been doing some research and playing around with BI tools recently.
 Here is a list of BI tools we think are very interesting, powerful and worth exploring.
@@ -15,3 +15,7 @@ querying from a variety of data sources, visualizing and sharing the results. It
 ### Superset
 
 Apache [Superset](https://github.com/airbnb/superset) is yet another BI tool open sourced by Airbnb. It's written in Python. The data sources it supports is less than Redash and Metabase but the UI/UX looks cool.
+
+### franchise
+
+[Franchise](https://franchise.cloud/) is a sql notebook.

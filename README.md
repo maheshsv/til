@@ -45,10 +45,11 @@
 * [OLTP and OLAP](database/olap-and-oltp.md)
 * [Compare Postgres and MySQL for Analytics](database/postgres-mysql-analytics.md)
 
-### Docker
+### Docker/Kubernetes
 
 * [Some Docker commands and Options](docker/some-docker-commands-and-options.md)
 * [Kubernetes on AWS](docker/kubernetes-on-aws.md)
+* [Kops](docker/kops.md)
 
 ### JavaScript
 

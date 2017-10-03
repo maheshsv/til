@@ -134,6 +134,7 @@
 ### Web
 
 * [OAuth 2.0](web/oauth2.md)
+* [JSON Schema](web/json-schema.md)
 
 ### Tools
 

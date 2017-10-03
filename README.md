@@ -9,7 +9,7 @@
 * [Algorithms](#algorithms)
 * [Big Data](#big-data)
 * [Database](#database)
-* [Docker](#dockerkubernetes)
+* [Docker/Kubernetes](#dockerkubernetes)
 * [JavaScript](#javascript)
 * [Elixir](#elixir)
 * [Python](#python)

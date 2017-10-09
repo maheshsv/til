@@ -126,6 +126,7 @@
 
 * [NGTP Protocol](misc/ngtp-protocol.md)
 * [Google Cloud Training](misc/gcp-training.md)
+* [Google Search Skills](misc/google-search-skills.md)
 
 ### Vim
 

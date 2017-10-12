@@ -106,6 +106,7 @@
 * [Linux: /etc/init.d and service command](linux/initd-and-service-command.md)
 * [find and grep command](linux/find-and-grep-command.md)
 * [tmux](linux/tmux.md)
+* [sed](linux/sed.md)
 
 ### Git
 

@@ -107,6 +107,7 @@
 * [find and grep command](linux/find-and-grep-command.md)
 * [tmux](linux/tmux.md)
 * [sed](linux/sed.md)
+* [bash function](linux/bash-function.md)
 
 ### Git
 

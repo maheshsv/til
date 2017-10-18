@@ -10,23 +10,23 @@
 * [Big Data](#big-data)
 * [Database](#database)
 * [Docker/Kubernetes](#dockerkubernetes)
-* [JavaScript](#javascript)
 * [Elixir](#elixir)
-* [Python](#python)
-* [Programming Languages](#programming-languages)
+* [Git](#git)
+* [JavaScript](#javascript)
+* [Linux](#linux)
+* [Mac](#mac)
+* [Micro-service](#micro-service)
+* [Misc](#misc)
 * [MySQL](#mysql)
 * [Networking](#networking)
-* [Micro-service](#micro-service)
+* [Programming Languages](#programming-languages)
+* [Python](#python)
 * [Redis](#redis)
-* [Linux](#linux)
-* [Git](#git)
+* [Startup](#startup)
 * [Sublime](#sublime)
-* [Mac](#mac)
-* [Misc](#misc)
+* [Tools](#tools)
 * [Vim](#vim)
 * [Web](#web)
-* [Tools](#tools)
-* [Startup](#startup)
 * [得到](#得到)
 
 ---
@@ -52,29 +52,48 @@
 * [Kubernetes on AWS](docker/kubernetes-on-aws.md)
 * [Kops](docker/kops.md)
 
+### Elixir
+
+* [Basic Actor in Elixir](elixir/hello-actor-in-elixir.md)
+
+### Git
+
+* [Create remote Git branch](git/create-remote-branch.md)
+
 ### JavaScript
 
 * [Four ways to call method in JavaScript](javascript/four-ways-to-call-method.md)
 * [Closure example](javascript/closure-example.md)
 
-### Elixir
+### Linux
 
-* [Basic Actor in Elixir](elixir/hello-actor-in-elixir.md)
+* [scp](linux/secure-copy.md)
+* [manage background jobs](linux/manage-background-jobs.md)
+* [one liner Bash](linux/one-liner-bash)
+* [Linux: /etc/init.d and service command](linux/initd-and-service-command.md)
+* [find and grep command](linux/find-and-grep-command.md)
+* [tmux](linux/tmux.md)
+* [sed](linux/sed.md)
+* [bash function](linux/bash-function.md)
 
-### Python
+### Mac
 
-* [date, datetime, string convertion in Python](python/date-datetime-string-convert.md)
-* [HTTP Post with requests](python/http-post-with-requests.md)
-* [Inheritance of __init__ in Python](python/inherit-init.md)
-* [Python virtualenv and virtualenvwrapper](python/virtualenv-and-virtualenvwrapper.md)
-* [Python Meta](python/python-meta.md)
-* [Python Logging Architecture](python/python-logging-architecture.md)
-* [Python Fire](python)
+* [Force empty Trash from Terminal](mac/empty-trash-from-terminal.md)
+* [Checksum commands](mac/checksum-commands.md)
+* [Practical Mac Commands](mac/mac-practical-commands.md)
+* [Mac：digital signature in PDF](mac/electronically-sign.md)
+* [Get private IP address on Mac](mac/get-private-ip.md)
 
-### Programming Languages
+### Micro-service
 
-* [Named parameter](programming_languages/named_parameter.md)
-* [Whats Functional Programming All About](programming_languages/functional-programming-all-about.md)
+* [API Gateway: Kong](micro_service/api-gateway-kong.md)
+* [Kong Admin API Models](micro_service/kong-admin-api-models.md)
+
+### Misc
+
+* [NGTP Protocol](misc/ngtp-protocol.md)
+* [Google Cloud Training](misc/gcp-training.md)
+* [Google Search Skills](misc/google-search-skills.md)
 
 ### MySQL
 
@@ -88,48 +107,38 @@
 * [Redirect from http to https automatically](networking/auto-redirect-http-to-https.md)
 * [Proxy Network](networking/proxy-network.md)
 
-### Micro-service
+### Programming Languages
 
-* [API Gateway: Kong](micro_service/api-gateway-kong.md)
-* [Kong Admin API Models](micro_service/kong-admin-api-models.md)
+* [Named parameter](programming_languages/named_parameter.md)
+* [Whats Functional Programming All About](programming_languages/functional-programming-all-about.md)
+
+### Python
+
+* [date, datetime, string convertion in Python](python/date-datetime-string-convert.md)
+* [HTTP Post with requests](python/http-post-with-requests.md)
+* [Inheritance of __init__ in Python](python/inherit-init.md)
+* [Python virtualenv and virtualenvwrapper](python/virtualenv-and-virtualenvwrapper.md)
+* [Python Meta](python/python-meta.md)
+* [Python Logging Architecture](python/python-logging-architecture.md)
+* [Python Fire](python)
 
 ### Redis
 
 * [Find keys matching pattern](redis/find-keys-matching-pattern.md)
 * [Transaction in Redis](redis/transaction-in-redis.md)
 
-### Linux
+### Startup
 
-* [scp](linux/secure-copy.md)
-* [manage background jobs](linux/manage-background-jobs.md)
-* [one liner Bash](linux/one-liner-bash)
-* [Linux: /etc/init.d and service command](linux/initd-and-service-command.md)
-* [find and grep command](linux/find-and-grep-command.md)
-* [tmux](linux/tmux.md)
-* [sed](linux/sed.md)
-* [bash function](linux/bash-function.md)
-
-### Git
-
-* [Create remote Git branch](git/create-remote-branch.md)
+* [7 Startup Advice](startup/7-startup-advice.md)
 
 ### Sublime
 
 * [My Sublime Setting](sublime/sublime-setting.json)
 
-### Mac
+### Tools
 
-* [Force empty Trash from Terminal](mac/empty-trash-from-terminal.md)
-* [Checksum commands](mac/checksum-commands.md)
-* [Practical Mac Commands](mac/mac-practical-commands.md)
-* [Mac：digital signature in PDF](mac/electronically-sign.md)
-* [Get private IP address on Mac](mac/get-private-ip.md)
-
-### Misc
-
-* [NGTP Protocol](misc/ngtp-protocol.md)
-* [Google Cloud Training](misc/gcp-training.md)
-* [Google Search Skills](misc/google-search-skills.md)
+* [BI Tools: Redash, Metabase and Superset](tools/BI-tools.md)
+* [HTTP Tools](tools/http-tools.md)
 
 ### Vim
 
@@ -139,15 +148,6 @@
 
 * [OAuth 2.0](web/oauth2.md)
 * [JSON Schema](web/json-schema.md)
-
-### Tools
-
-* [BI Tools: Redash, Metabase and Superset](tools/BI-tools.md)
-* [HTTP Tools](tools/http-tools.md)
-
-### Startup
-
-* [7 Startup Advice](startup/7-startup-advice.md)
 
 ### 得到
 * [曾鸣·智能商业20讲](igetget/曾鸣·智能商业20讲.md)

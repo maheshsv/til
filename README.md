@@ -12,6 +12,7 @@
 * [Docker/Kubernetes](#dockerkubernetes)
 * [Elixir](#elixir)
 * [Git](#git)
+* [Go](#go)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -59,6 +60,10 @@
 ### Git
 
 * [Create remote Git branch](git/create-remote-branch.md)
+
+### Go
+
+* [Go Interface](go/understand-go-interfaces.md)
 
 ### JavaScript
 

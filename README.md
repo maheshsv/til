@@ -47,6 +47,7 @@
 * [OLTP and OLAP](database/olap-and-oltp.md)
 * [Compare Postgres and MySQL for Analytics](database/postgres-mysql-analytics.md)
 * [Bson](database/bson.md)
+* [What's New in MySQL5.7](database/mysql-57.md)
 
 ### Docker/Kubernetes
 

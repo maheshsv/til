@@ -38,6 +38,7 @@
 
 * [Shunting-yard Algorithm](algorithms/shunting-yard-algorithm.md)
 * [Consistent Hashing](algorithms/consistent-hashing.md)
+* [URL Shortener](algorithms/url-shortener.md)
 
 ### Big Data
 

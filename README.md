@@ -8,6 +8,7 @@
 
 * [Algorithms](#algorithms)
 * [Big Data](#big-data)
+* [Books](#books)
 * [Database](#database)
 * [Docker/Kubernetes](#dockerkubernetes)
 * [Elixir](#elixir)
@@ -42,6 +43,10 @@
 
 * [Big Data projects](big_data/big-data-projects.md)
 * [BigQuery](big_data/bigquery.md)
+
+### Books
+
+* [投资中最简单的事](the-simple-things-in-investment.md)
 
 ### Database
 

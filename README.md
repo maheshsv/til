@@ -46,7 +46,7 @@
 
 ### Books
 
-* [投资中最简单的事](the-simple-things-in-investment.md)
+* [投资中最简单的事](books/the-simple-things-in-investment.md)
 
 ### Database
 

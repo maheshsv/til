@@ -27,6 +27,7 @@
 * [Serverless](#serverless)
 * [Startup](#startup)
 * [Sublime](#sublime)
+* [Thoughts](#thoughts)
 * [Tools](#tools)
 * [Vim](#vim)
 * [Web](#web)
@@ -154,6 +155,10 @@
 ### Sublime
 
 * [My Sublime Setting](sublime/sublime-setting.json)
+
+### Thoughts
+
+- [Growing Mindset](thoughts/growing-mindset.md)
 
 ### Tools
 

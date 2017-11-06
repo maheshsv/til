@@ -15,7 +15,7 @@
 * [Elixir](#elixir)
 * [Git](#git)
 * [Go](#go)
-* [IoT](#IoT)
+* [IoT](#iot)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)

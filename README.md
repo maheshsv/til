@@ -20,7 +20,6 @@
 * [Linux](#linux)
 * [Mac](#mac)
 * [Micro-service](#micro-service)
-* [Misc](#misc)
 * [MySQL](#mysql)
 * [Networking](#networking)
 * [Programming Languages](#programming-languages)
@@ -116,10 +115,6 @@
 
 * [API Gateway: Kong](micro_service/api-gateway-kong.md)
 * [Kong Admin API Models](micro_service/kong-admin-api-models.md)
-
-### Misc
-
-* ​
 
 ### MySQL
 

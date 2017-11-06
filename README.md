@@ -9,11 +9,13 @@
 * [Algorithms](#algorithms)
 * [Big Data](#big-data)
 * [Books](#books)
+* [Conference](#conference)
 * [Database](#database)
 * [Docker/Kubernetes](#dockerkubernetes)
 * [Elixir](#elixir)
 * [Git](#git)
 * [Go](#go)
+* [IoT](#IoT)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -50,6 +52,11 @@
 
 * [投资中最简单的事](books/the-simple-things-in-investment.md)
 
+### Conference
+
+- [Google Cloud Training](conference/gcp-training.md)
+- [AI Frontiers](conference/ai-frontiers.md)
+
 ### Database
 
 * [OLTP and OLAP](database/olap-and-oltp.md)
@@ -76,6 +83,10 @@
 
 * [Go Interface](go/understand-go-interfaces.md)
 * [Contributing to Gihub Go project](go/contributing-github-go-project.md)
+
+###IoT
+
+- [NGTP Protocol](IoT/ngtp-protocol.md)
 
 ### JavaScript
 
@@ -108,9 +119,7 @@
 
 ### Misc
 
-* [NGTP Protocol](misc/ngtp-protocol.md)
-* [Google Cloud Training](misc/gcp-training.md)
-* [Google Search Skills](misc/google-search-skills.md)
+* ​
 
 ### MySQL
 
@@ -159,6 +168,10 @@
 ### Thoughts
 
 - [Growing Mindset](thoughts/growing-mindset.md)
+
+### Tips
+
+- [Google Search Skills](tips/google-search-skills.md)
 
 ### Tools
 

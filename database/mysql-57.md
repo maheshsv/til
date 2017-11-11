@@ -4,5 +4,20 @@
 
 - performance improvement. How to benchmark?
 - native JSON support
-  ...
+- Performance Schema: help with performance monitoring
+- SYS Schema: a set of objects: view, stored procedures, stored functions, tables, and triggers
+- InnoDB improvements:
+  - resize Buffer Pool, rename index, enlarge varchar column size online
+  - Native Partitioning???
+  - Native full text search
+  - Cache retention
+- Optimizer Improvements: refactor parser, optimizer and cost model
+- JSON explain
+- Server side statement timeouts
+- Replication improvements:
+  - multi-source replication
+  - ...
+- High availability improvements
+- GIS improvements
+- MySQL Enterprise Edition
 

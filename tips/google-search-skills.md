@@ -22,7 +22,7 @@ tom cruise +scientology
 tom cruise -scientology
 ```
 
-###`*`
+### `*`
 
 ```text
 may the * be with you

@@ -13,6 +13,7 @@
 * [Database](#database)
 * [Docker/Kubernetes](#dockerkubernetes)
 * [Elixir](#elixir)
+* [Front-end](#frontend)
 * [Git](#git)
 * [Go](#go)
 * [IoT](#iot)
@@ -74,6 +75,10 @@
 ### Elixir
 
 * [Basic Actor in Elixir](elixir/hello-actor-in-elixir.md)
+
+### Frontend
+
+* [Surge: Static Web Publishing](frontend/surge.md)
 
 ### Git
 

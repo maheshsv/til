@@ -4,6 +4,6 @@
 
 I have pushlised a few:
 
-- [guihaojin.surge.sh](https://guihaojin.surge.sh)
-- [awesome-d3.surge.sh](https://awesome-d3.surge.sh/d3-rect.html)
+- [guihaojin.com](http://guihaojin.com)
+- [awesome-d3.surge.sh/d3-rect.html](https://awesome-d3.surge.sh/d3-rect.html)
 

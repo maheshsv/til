@@ -148,7 +148,7 @@
 * [Python virtualenv and virtualenvwrapper](python/virtualenv-and-virtualenvwrapper.md)
 * [Python Meta](python/python-meta.md)
 * [Python Logging Architecture](python/python-logging-architecture.md)
-* [Python Fire](python)
+* [Python Fire](python/python-fire.md)
 
 ### Redis
 

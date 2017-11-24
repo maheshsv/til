@@ -149,6 +149,7 @@
 * [Python Meta](python/python-meta.md)
 * [Python Logging Architecture](python/python-logging-architecture.md)
 * [Python Fire](python/python-fire.md)
+* [Curses Programming](python/curses-programming.md)
 
 ### Redis
 

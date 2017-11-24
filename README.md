@@ -51,7 +51,7 @@
 ### Books
 
 * [投资中最简单的事](books/the-simple-things-in-investment.md)
-* [The Mythical Man-Month](books/the-mythical-man-month.md)
+* [人月神话](books/the-mythical-man-month.md)
 
 ### Conference
 

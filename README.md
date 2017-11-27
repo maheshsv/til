@@ -14,6 +14,7 @@
 * [Database](#database)
 * [Docker/Kubernetes](#dockerkubernetes)
 * [Elixir](#elixir)
+* [Engineering Excellence](#engineering-excellence)
 * [Front-end](#frontend)
 * [Git](#git)
 * [Go](#go)
@@ -81,6 +82,10 @@
 ### Elixir
 
 * [Basic Actor in Elixir](elixir/hello-actor-in-elixir.md)
+
+### Engineering Excellence
+
+* [SOLID Principles](eng_excellence/solid-principles.md)
 
 ### Frontend
 

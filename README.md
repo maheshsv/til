@@ -7,6 +7,7 @@
 ### Categories
 
 * [Algorithms](#algorithms)
+* [API](#api)
 * [Big Data](#big-data)
 * [Books](#books)
 * [Conference](#conference)
@@ -42,6 +43,10 @@
 * [Shunting-yard Algorithm](algorithms/shunting-yard-algorithm.md)
 * [Consistent Hashing](algorithms/consistent-hashing.md)
 * [URL Shortener](algorithms/url-shortener.md)
+
+### API
+
+- [An emerging type of Open API: webhook plugin](api/emerging-open-api.md)
 
 ### Big Data
 

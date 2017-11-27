@@ -176,6 +176,7 @@
 ### Thoughts
 
 - [Growing Mindset](thoughts/growing-mindset.md)
+- [What is SaaS](thoughts/what-is-saas.md)
 
 ### Tips
 

@@ -29,6 +29,7 @@
 * [Python](#python)
 * [Redis](#redis)
 * [Serverless](#serverless)
+* System Architecture(#system-architecture)
 * [Startup](#startup)
 * [Sublime](#sublime)
 * [Thoughts](#thoughts)
@@ -178,6 +179,10 @@
 ### Sublime
 
 * [My Sublime Setting](sublime/sublime-setting.json)
+
+### System Architecture
+
+- [Design Uber](#design-uber.md)
 
 ### Thoughts
 

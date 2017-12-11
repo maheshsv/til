@@ -182,7 +182,7 @@
 
 ### System Architecture
 
-- [Design Uber](#design-uber.md)
+- [Design Uber](system_architecture/design-uber.md)
 
 ### Thoughts
 

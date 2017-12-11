@@ -29,7 +29,7 @@
 * [Python](#python)
 * [Redis](#redis)
 * [Serverless](#serverless)
-* System Architecture(#system-architecture)
+* [System Architecture](#system-architecture)
 * [Startup](#startup)
 * [Sublime](#sublime)
 * [Thoughts](#thoughts)

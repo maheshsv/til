@@ -2,7 +2,7 @@
 
 Nginx blog has a seriers of microservices articles starts from [Introduction to Microservice](https://www.nginx.com/blog/introduction-to-microservices/).
 
-#### Problems with monolithic:
+### Problems with monolithic:
 
 - overwhelmingly complex
 - hard to do continues deployment
@@ -10,7 +10,7 @@ Nginx blog has a seriers of microservices articles starts from [Introduction to 
 - reliability chanllenge because of module coupling
 - hard to adopt new frameworks and languages
 
-#### Microservice to the rescue
+### Microservice to the rescue
 
 - **Pros**
   - each service can be developed independently (as long as the interface doesn't change)
@@ -22,7 +22,7 @@ Nginx blog has a seriers of microservices articles starts from [Introduction to 
   - testing is complex
   - deploying is more complex
 
-#### API Gateway
+### API Gateway
 
 API Gateway is the single entry point into the system.
 
@@ -31,7 +31,7 @@ API Gateway is the single entry point into the system.
 - **Cons**
   - yet another HA component that must be developed, deployed and managed(should be as lightweight as possible)
 
-#### Inter-Process Communication
+### Inter-Process Communication
 
 Services much interact using an inter-process communication mechanism.
 
@@ -49,7 +49,7 @@ Services much interact using an inter-process communication mechanism.
   - [circuit breaker pattern](http://martinfowler.com/bliki/CircuitBreaker.html)
   - Provide fallbacks
 
-#### Service Discovery
+### Service Discovery
 
 - Client-Side Discovery Pattern
 - Service-Side Discovery Pattern(e.g: AWS ELB)
@@ -61,7 +61,7 @@ service registry:
  - zookeeper
  - Eureka
 
-#### Event-Driven Data Management
+### Event-Driven Data Management
 
 Distributed transaction usually solved by 2PC(two-phase commit).
 
@@ -71,13 +71,13 @@ Distributed transaction usually solved by 2PC(two-phase commit).
 > events. There are a few ways to accomplish this, including using the 
 > database as a message queue, transaction log mining, and event sourcing.
 
-#### Deployment Strategy
+### Deployment Strategy
 
 - multiple service instances per host(bad for production)
 - service instance per host(VM/container)
 - serverless
 
-#### Refactor Monolith into microservices
+### Refactor Monolith into microservices
 
 **Incrementally refactor monolithic application!!!**
 

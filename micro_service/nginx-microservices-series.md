@@ -87,7 +87,7 @@ Strategies:
 2. split service to layers, such as frontend and backend service seperation
 3. extract services
 
-
+---
 
 My experience refactoring monolith into microservices matches the strategies here very well! :-)
 

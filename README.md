@@ -26,7 +26,7 @@
 * [MySQL](#mysql)
 * [Networking](#networking)
 * [Programming Languages](#programming-languages)
-* [Protocals](#protocals)
+* [Protocols](#protocols)
 * [Python](#python)
 * [Redis](#redis)
 * [Serverless](#serverless)
@@ -155,9 +155,9 @@
 * [Named parameter](programming_languages/named_parameter.md)
 * [Whats Functional Programming All About](programming_languages/functional-programming-all-about.md)
 
-### Protocals
+### Protocols
 
-- [NGTP Protocol](protocals/ngtp-protocol.md)
+- [NGTP Protocol](protocols/ngtp-protocol.md)
 
 ### Python
 

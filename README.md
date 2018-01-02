@@ -19,7 +19,6 @@
 * [Front-end](#frontend)
 * [Git](#git)
 * [Go](#go)
-* [IoT](#iot)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -27,6 +26,7 @@
 * [MySQL](#mysql)
 * [Networking](#networking)
 * [Programming Languages](#programming-languages)
+* [Protocals](#protocals)
 * [Python](#python)
 * [Redis](#redis)
 * [Serverless](#serverless)
@@ -108,10 +108,6 @@
 * [Go Interface](go/understand-go-interfaces.md)
 * [Contributing to Gihub Go project](go/contributing-github-go-project.md)
 
-### IoT
-
-- [NGTP Protocol](IoT/ngtp-protocol.md)
-
 ### JavaScript
 
 * [Four ways to call method in JavaScript](javascript/four-ways-to-call-method.md)
@@ -158,6 +154,10 @@
 
 * [Named parameter](programming_languages/named_parameter.md)
 * [Whats Functional Programming All About](programming_languages/functional-programming-all-about.md)
+
+### Protocals
+
+- [NGTP Protocol](protocals/ngtp-protocol.md)
 
 ### Python
 

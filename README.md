@@ -125,6 +125,8 @@
 * [tmux](linux/tmux.md)
 * [sed](linux/sed.md)
 * [bash function](linux/bash-function.md)
+* [netstat](linux/netstat.md)
+* [SSH Bind Address](linux/ssh-bind-address.md)
 
 ### Mac
 

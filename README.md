@@ -13,6 +13,7 @@
 * [Books](#books)
 * [Conference](#conference)
 * [Database](#database)
+* [Design Patterns](#design-patterns)
 * [Docker/Kubernetes](#dockerkubernetes)
 * [Elixir](#elixir)
 * [Engineering Excellence](#engineering-excellence)
@@ -80,6 +81,10 @@
 * [Bson](database/bson.md)
 * [What's New in MySQL5.7](database/mysql-57.md)
 * [MySQL Architecture and Storage Engine](database/mysql-architecture.md)
+
+### Design Patterns
+
+- [CQRS](design_patterns/CQRS.md)
 
 ### Docker/Kubernetes
 

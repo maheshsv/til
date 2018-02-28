@@ -45,6 +45,7 @@
 ### AI
 
 - [What is deep learning?](ai/what-is-deep-learning.md)
+- [ConvNet](ai/convnet.md)
 
 ### Algorithms
 

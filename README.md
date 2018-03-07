@@ -86,6 +86,7 @@
 ### Design Patterns
 
 - [CQRS](design_patterns/CQRS.md)
+- [Inversion of Control](design_patterns/ioc.md)
 
 ### Docker/Kubernetes
 

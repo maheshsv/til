@@ -1,6 +1,6 @@
 # Inversion of Control
 
-IoC, Inversion of Control is a design pattern in extending frameworks. 
+IoC, Inversion of Control is a common design pattern in extending frameworks. 
 
 A sample **in control** code looks like:
 
@@ -35,5 +35,5 @@ In this case we don't call `ClientsController` ourselve. It's called by the fram
 
 DI, dependency injection is one style of IoC.
 
-A good read of Ioc is [here](https://martinfowler.com/bliki/InversionOfControl.html).
+A good read of Ioc is [here](https://martinfowler.com/bliki/InversionOfControl.html) by Martin Fowler.
 

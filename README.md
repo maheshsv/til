@@ -53,6 +53,7 @@
 * [Consistent Hashing](algorithms/consistent-hashing.md)
 * [URL Shortener](algorithms/url-shortener.md)
 * [Distributed Consensus](algorithms/distributed-consensus.md)
+* [Boyer-Moore String Search Algorithm](algorithms/bm-algorithm.md)
 
 ### API
 

@@ -75,6 +75,7 @@
 - [Google Cloud Training](conference/gcp-training.md)
 - [AI Frontiers](conference/ai-frontiers.md)
 - [Alibaba Database Meetup](conference/Alibaba-database-meetup.md)
+- [Code BEAM SF 2018](conference/code-beam-sf-2018.md)
 
 ### Database
 

@@ -210,6 +210,7 @@
 - [What is SaaS?](thoughts/what-is-saas.md)
 - [学习一门课程需要多长时间?](thoughts/how-long-to-learn-a-course.md)
 - [Guesture Input on TV](thoughts/guesture-input-on-TV.md)
+- [Netflix Culture Deck](thoughts/netflix-culture-deck.md)
 
 ### Tips
 

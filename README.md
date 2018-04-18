@@ -104,6 +104,7 @@
 ### Engineering Excellence
 
 * [SOLID Principles](eng_excellence/solid-principles.md)
+* [Set Good Examples](eng_excellence/set-good-examples.md)
 
 ### Frontend
 

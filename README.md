@@ -20,6 +20,7 @@
 * [Front-end](#frontend)
 * [Git](#git)
 * [Go](#go)
+* [IntelliJ](#intellij)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -119,6 +120,10 @@
 
 * [Go Interface](go/understand-go-interfaces.md)
 * [Contributing to Gihub Go project](go/contributing-github-go-project.md)
+
+### IntelliJ
+
+- [IntelliJ Tricks](IntelliJ/intellij-tricks.md)
 
 ### JavaScript
 

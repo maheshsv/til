@@ -124,7 +124,7 @@
 
 ### IntelliJ
 
-- [IntelliJ Tricks](IntelliJ/intellij-tricks.md)
+- [IntelliJ Tricks](intelliJ/intellij-tricks.md)
 
 ### Java
 

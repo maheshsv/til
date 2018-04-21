@@ -21,6 +21,7 @@
 * [Git](#git)
 * [Go](#go)
 * [IntelliJ](#intellij)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
@@ -124,6 +125,10 @@
 ### IntelliJ
 
 - [IntelliJ Tricks](IntelliJ/intellij-tricks.md)
+
+### Java
+
+- [Lombok](java/lombok.md)
 
 ### JavaScript
 

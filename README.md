@@ -206,6 +206,7 @@
 ### Startup
 
 * [7 Startup Advice](startup/7-startup-advice.md)
+* [How to Find Product Market Fit](startup/how-to-find-product-market-fit.md)
 
 ### Sublime
 

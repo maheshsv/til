@@ -1,12 +1,10 @@
 # Redshift
 
-[AWS Redshift](https://aws.amazon.com/redshift/) is a big data analytics solution for petabyte-scale data. 
-
-
+[AWS Redshift](https://aws.amazon.com/redshift/) is a big data analytics solution for petabyte-scale data.
 
 ### System Architecture
 
-![redshift-architecture](/Users/haojig/repos/til/big_data/redshift-architecture.png)
+![redshift-architecture](redshift-architecture.png)
 
 
 

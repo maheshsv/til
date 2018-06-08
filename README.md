@@ -67,6 +67,7 @@
 * [Big Data projects](big_data/big-data-projects.md)
 * [BigQuery](big_data/bigquery.md)
 * [Redshift](big_data/redshift.md)
+* [AWS Athena](big_data/aws-athena.md)
 
 ### Books
 

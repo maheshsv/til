@@ -8,6 +8,7 @@
 
 * [AI](#ai)
 * [Algorithms](#algorithms)
+* [Android](#android)
 * [API](#api)
 * [Big Data](#big-data)
 * [Books](#books)
@@ -57,6 +58,10 @@
 * [URL Shortener](algorithms/url-shortener.md)
 * [Distributed Consensus](algorithms/distributed-consensus.md)
 * [Boyer-Moore String Search Algorithm](algorithms/bm-algorithm.md)
+
+### Android
+
+- [Android UI](android/android-ui.md)
 
 ### API
 

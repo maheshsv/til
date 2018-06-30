@@ -202,6 +202,7 @@
 * [Python Logging Architecture](python/python-logging-architecture.md)
 * [Python Fire](python/python-fire.md)
 * [Curses Programming](python/curses-programming.md)
+* [Python Excel XlsxWriter](python/python-excel-xlsxwriter.md)
 
 ### Redis
 

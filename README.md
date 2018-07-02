@@ -188,6 +188,7 @@
 * [Named parameter](programming_languages/named_parameter.md)
 * [Whats Functional Programming All About](programming_languages/functional-programming-all-about.md)
 * [Crash Course in Compilers](programming_languages/compilers-crash-course.md)
+* [The Super Tiny Compiler](programming_languages/super-tiny-compiler.md)
 
 ### Protocols
 

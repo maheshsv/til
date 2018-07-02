@@ -148,7 +148,7 @@
 
 * [scp](linux/secure-copy.md)
 * [manage background jobs](linux/manage-background-jobs.md)
-* [one liner Bash](linux/one-liner-bash)
+* [one liner Bash](linux/one-liner-bash.md)
 * [Linux: /etc/init.d and service command](linux/initd-and-service-command.md)
 * [find and grep command](linux/find-and-grep-command.md)
 * [tmux](linux/tmux.md)

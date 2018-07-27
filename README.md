@@ -156,6 +156,7 @@
 * [bash function](linux/bash-function.md)
 * [netstat](linux/netstat.md)
 * [SSH Bind Address](linux/ssh-bind-address.md)
+* [awk](linux/awk.md)
 
 ### Mac
 

@@ -138,6 +138,7 @@
 ### Java
 
 - [Lombok](java/lombok.md)
+- [Builder Pattern](java/builder-pattern.md)
 
 ### JavaScript
 

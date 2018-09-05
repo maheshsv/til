@@ -139,6 +139,7 @@
 
 - [Lombok](java/lombok.md)
 - [Builder Pattern](java/builder-pattern.md)
+- [Dependency Injection](java/dependency-injection.md)
 
 ### JavaScript
 

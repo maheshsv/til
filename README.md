@@ -33,6 +33,7 @@
 * [Protocols](#protocols)
 * [Python](#python)
 * [Redis](#redis)
+* [Search](#search)
 * [Serverless](#serverless)
 * [Soccer Skills](#soccer-skills)
 * [System Architecture](#system-architecture)
@@ -213,6 +214,10 @@
 
 * [Find keys matching pattern](redis/find-keys-matching-pattern.md)
 * [Transaction in Redis](redis/transaction-in-redis.md)
+
+### Search
+
+- [ElasticSearch Concepts and High Level API](search/elasticsearch-concepts-high-level-api.md)
 
 ### Serverless
 

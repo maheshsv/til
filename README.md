@@ -144,6 +144,7 @@
 - [Dependency Injection](java/dependency-injection.md)
 - [A Memory Leak Example](java/memory-leak-example.md)
 - [A Race Condition Example](java/race-condition-example.md)
+- [Producer-Consumer Pattern with Blocking Queue](producer-consumer-with-blocking-queue.md)
 
 ### JavaScript
 

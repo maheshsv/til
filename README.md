@@ -97,6 +97,7 @@
 * [What's New in MySQL5.7](database/mysql-57.md)
 * [MySQL Architecture and Storage Engine](database/mysql-architecture.md)
 * [SQLite: The Database at the Edge of the Network](database/sqlite-at-network-edge.md)
+* [DynamoDBMapper](database/dynamodbmapper.md)
 
 ### Design Patterns
 

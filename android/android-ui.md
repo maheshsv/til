@@ -18,3 +18,5 @@ Android UI notes from the [doc](https://developer.android.com/guide/topics/ui/de
 
 
 
+Why do I care? I worked on Alexa Devices and it's built on top of Android...
+

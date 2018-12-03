@@ -151,6 +151,7 @@
 - [Producer-Consumer Pattern with Blocking Queue](java/producer-consumer-with-blocking-queue.md)
 - [Spring IoC](java/spring-ioc.md)
 - [Java Exception](java/java-exception.md)
+- [String, StringBuffer and StringBuilder](java/string-stringbuffer-stringbuilder.md)
 
 ### JavaScript
 

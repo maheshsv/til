@@ -83,6 +83,7 @@
 * [人月神话](books/the-mythical-man-month.md)
 * [爆裂](books/爆裂.md)
 * [激荡十年，水大鱼大](books/激荡十年，水大鱼大.md)
+* [重新理解创业](books/重新理解创业.md)
 
 ### Conference
 

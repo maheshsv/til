@@ -251,6 +251,7 @@
 ### System Architecture
 
 - [Design Uber](system_architecture/design-uber.md)
+- [接入层Scale Out](system_architecture/gateway-scale-out.md)
 
 ### Thoughts
 

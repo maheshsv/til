@@ -1,5 +1,7 @@
 # DynamoDBMapper
 
+DynamoDB low-level API is so WEIRD! The high-level API(DynamoDBMapper) looks more familiar. :P
+
 DynamoDBMapper(Java) is provided by AWS SDK which allows you to map classes to DynamoDB tables. If you have worked with DynamoDB, you know how inconvinient it is to query and parse the result. Part of the reason is that DynamoDB is a key-value store, not a relational database. But with DynamoDBMapper, you can work with DynamoDB table with model classes and do CRUD with ease. The example from the [doc](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.html):
 
 ```java

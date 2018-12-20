@@ -252,6 +252,7 @@
 
 - [Design Uber](system_architecture/design-uber.md)
 - [接入层Scale Out](system_architecture/gateway-scale-out.md)
+- [超大规模日志存储、分析系统构架](system_architecture/super-large-scale-logging-infra.md)
 
 ### Thoughts
 
@@ -281,13 +282,9 @@
 
 ### 得到
 * [曾鸣·智能商业20讲](得到/曾鸣·智能商业20讲.md)
-
 * [何帆：带你领略成功者必备的通识教育](得到/何帆通识教育.md)
-
 * [吴伯凡：面对人生难题的思维](得到/吴伯凡-面对人生难题的思维.md)
-
 * [2017读书日，4本伟大的小书](得到/2017读书日.md)
-
 * [黄执中TEDx:像辩手一样生活](得到/黄执中TEDx.md)
 
 ### 诗歌

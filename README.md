@@ -76,6 +76,7 @@
 * [BigQuery](big_data/bigquery.md)
 * [Redshift](big_data/redshift.md)
 * [AWS Athena](big_data/aws-athena.md)
+* [Elements of Scale](big_data/elements-of-scale.md)
 
 ### Books
 

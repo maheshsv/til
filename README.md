@@ -136,7 +136,7 @@
 ### Go
 
 * [Go Interface](go/understand-go-interfaces.md)
-* [Contributing to Gihub Go project](go/contributing-github-go-project.md)
+* [Contributing to Github Go project](go/contributing-github-go-project.md)
 
 ### IntelliJ
 

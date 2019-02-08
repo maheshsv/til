@@ -107,6 +107,7 @@
 
 - [CQRS](design_patterns/CQRS.md)
 - [Inversion of Control](design_patterns/ioc.md)
+- [Head First Design Patterns](design_patterns/head-first-design-patterns.md)
 
 ### Docker/Kubernetes
 

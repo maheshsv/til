@@ -85,6 +85,7 @@
 * [爆裂](books/爆裂.md)
 * [激荡十年，水大鱼大](books/激荡十年，水大鱼大.md)
 * [重新理解创业](books/重新理解创业.md)
+* [Animal Farm](books/animal-farm.md)
 
 ### Conference
 

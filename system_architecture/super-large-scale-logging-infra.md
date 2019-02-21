@@ -8,7 +8,7 @@
 
 基本构架如下图：
 
-![logging service architecture](logging service architecture.png)
+![logging service architecture](logging-service-architecture.png)
 
 以上。
 

@@ -15,7 +15,7 @@ for(Level level : Level.values()) {
     System.out.println(level);
 }
 
-// Enum valueOf()
+// Enum valueOf(): get Enum from String.
 Level level = Level.valueOf("HIGH");
 
 // Enum Fields and Methods

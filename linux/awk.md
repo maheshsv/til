@@ -69,7 +69,7 @@ Split by single quote:
 echo "a'b'c" | awk 'BEGIN{FS="\x27"}{print $2}'
 ```
 
-Concatenate strings:
+Concatenate strings and assign to a new variable:
 ```bash
 echo "a b c" | awk '{x="Concatenated: "$1$2$3; print x}'
 ```

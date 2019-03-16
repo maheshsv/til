@@ -77,6 +77,7 @@
 * [Redshift](big_data/redshift.md)
 * [AWS Athena](big_data/aws-athena.md)
 * [Elements of Scale](big_data/elements-of-scale.md)
+* [Apache Parquet](big_data/apache-parquet.md)
 
 ### Books
 

@@ -271,7 +271,6 @@
 - [学习一门课程需要多长时间?](thoughts/how-long-to-learn-a-course.md)
 - [Guesture Input on TV](thoughts/guesture-input-on-TV.md)
 - [Netflix Culture Deck](thoughts/netflix-culture-deck.md)
-- [干净与整齐](thoughts/干净与整齐.md)
 - [高效学习](thoughts/高效学习.md)
 
 ### Tips

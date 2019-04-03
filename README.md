@@ -158,6 +158,7 @@
 - [String, StringBuffer and StringBuilder](java/string-stringbuffer-stringbuilder.md)
 - [Java Enums](java/java-enums.md)
 - [Effective Java 3rd Edition](java/effective-java-3rd-edition.md)
+- [Java Generics](java/java-generics.md)
 
 ### JavaScript
 

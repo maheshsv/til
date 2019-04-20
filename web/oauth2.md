@@ -71,4 +71,10 @@
 - Token endpoint: used by client to exchange an authorization grant for an access token
 - Redirection endpoint: used by authorization server to return responses containing authorization credentials to the client via the resource owner user-agent.
 
-最近阮一峰老师在他的博客里也介绍了Oauth2.0，非常深入浅出。
+---
+
+2019/4/19
+
+最近阮一峰老师在他的博客里也介绍了Oauth2.0，非常深入浅出，强烈推荐。
+1. [OAuth 2.0 的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)
+2. [OAuth 2.0 的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)

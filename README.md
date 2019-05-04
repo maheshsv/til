@@ -162,6 +162,7 @@
 - [Java Generics](java/java-generics.md)
 - [Java Reflection](java/java-reflection.md)
 - [JCommander](java/jcommander.md)
+- [Zip and Unzip](java/zip-unzip.md)
 
 ### JavaScript
 

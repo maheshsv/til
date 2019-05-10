@@ -160,7 +160,7 @@
 - [Java Enums](java/java-enums.md)
 - [Effective Java 3rd Edition](java/effective-java-3rd-edition.md)
 - [Java Generics](java/java-generics.md)
-- [Java Reflection](java/java-reflection.md)
+- [Java Reflection: Call Methods at Runtime](java/java-reflection.md)
 - [JCommander](java/jcommander.md)
 - [Zip and Unzip](java/zip-unzip.md)
 

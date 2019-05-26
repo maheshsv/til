@@ -163,6 +163,7 @@
 - [JCommander](java/jcommander.md)
 - [Zip and Unzip](java/zip-unzip.md)
 - [SimpleDateFormat Not Thread Safe Example](java/simpledateformat-thread-unsafe.md)
+- [Java Reflection Elements](java/reflection-elements.md)
 
 ### JavaScript
 

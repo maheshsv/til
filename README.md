@@ -60,6 +60,7 @@
 * [URL Shortener](algorithms/url-shortener.md)
 * [Distributed Consensus](algorithms/distributed-consensus.md)
 * [Boyer-Moore String Search Algorithm](algorithms/bm-algorithm.md)
+* [Rate Limiting Algorithms](algorithms/rate-limiter.md)
 
 ### Android
 

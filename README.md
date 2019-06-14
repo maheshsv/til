@@ -193,6 +193,7 @@
 * [Practical Mac Commands](mac/mac-practical-commands.md)
 * [Mac：digital signature in PDF](mac/electronically-sign.md)
 * [Get private IP address on Mac](mac/get-private-ip.md)
+* [Delete Specific Chrome Autofill Suggestions](mac/chrome-delete-suggestion.md)
 
 ### Micro-service
 

@@ -61,6 +61,7 @@
 * [Distributed Consensus](algorithms/distributed-consensus.md)
 * [Boyer-Moore String Search Algorithm](algorithms/bm-algorithm.md)
 * [Rate Limiting Algorithms](algorithms/rate-limiter.md)
+* [Bit Array](algorithms/bit-array.md)
 
 ### Android
 

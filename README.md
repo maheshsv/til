@@ -62,6 +62,7 @@
 * [Boyer-Moore String Search Algorithm](algorithms/bm-algorithm.md)
 * [Rate Limiting Algorithms](algorithms/rate-limiter.md)
 * [Bit Array](algorithms/bit-array.md)
+* [Bloom Filter](algorithms/bloom-filter.md)
 
 ### Android
 

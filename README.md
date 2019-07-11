@@ -12,6 +12,7 @@
 * [API](#api)
 * [Big Data](#big-data)
 * [Books](#books)
+* [Computer Science Classics](#computer-science-classics)
 * [Conference](#conference)
 * [Database](#database)
 * [Design Patterns](#design-patterns)
@@ -90,6 +91,10 @@
 * [重新理解创业](books/重新理解创业.md)
 * [Animal Farm](books/animal-farm.md)
 * [极致产品](books/极致产品.md)
+
+### Computer Science Classics
+
+* [The C Programming Language](classics/the-c-programming-language.md)
 
 ### Conference
 

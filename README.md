@@ -89,7 +89,7 @@
 * [激荡十年，水大鱼大](books/激荡十年，水大鱼大.md)
 * [重新理解创业](books/重新理解创业.md)
 * [Animal Farm](books/animal-farm.md)
-* [](books/极致产品.md)
+* [极致产品](books/极致产品.md)
 
 ### Conference
 

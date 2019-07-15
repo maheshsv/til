@@ -125,6 +125,7 @@
 * [Kubernetes on AWS](docker/kubernetes-on-aws.md)
 * [Kops](docker/kops.md)
 * [Lean Docker Image with Multi-stage Build](docker/multi-stage-build.md)
+* [Kubernetes Design Principles](docker/kubernetes-design-principles.md)
 
 ### Elixir
 

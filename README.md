@@ -112,6 +112,7 @@
 * [MySQL Architecture and Storage Engine](database/mysql-architecture.md)
 * [SQLite: The Database at the Edge of the Network](database/sqlite-at-network-edge.md)
 * [DynamoDBMapper](database/dynamodbmapper.md)
+* [Log Structured Merge Tree](database/lsm-tree.md)
 
 ### Design Patterns
 

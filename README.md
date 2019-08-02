@@ -10,6 +10,7 @@
 * [Algorithms](#algorithms)
 * [Android](#android)
 * [API](#api)
+* [AWS](#aws)
 * [Big Data](#big-data)
 * [Books](#books)
 * [Computer Science Classics](#computer-science-classics)
@@ -72,6 +73,10 @@
 ### API
 
 - [An emerging type of Open API: webhook plugin](api/emerging-open-api.md)
+
+### AWS
+
+- [AWS Big Data Services](aws/aws-big-data-services.md)
 
 ### Big Data
 

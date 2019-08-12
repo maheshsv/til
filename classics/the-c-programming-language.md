@@ -78,9 +78,6 @@ Parse command-line args:
 ```c
 #include <stdio.h>
 
-main(int argc, char *argv[]) {
-#include <stdio.h>
-
 int main(int argc, char *argv[]) {
 
     while (--argc > 0) {
@@ -89,7 +86,6 @@ int main(int argc, char *argv[]) {
     }
 
     return 0;
-}
 }
 ```
 
@@ -112,5 +108,56 @@ void qsort(void *v[], int left, int right, int (*comp)(void *, void *)) {
     swap(v, left, last);
     qsort(v, left, last - 1, comp);
     qsort(v, last + 1, right, comp);
+}
+```
+
+Define pointer to function type:
+
+```c
+typedef int (*PFI)(char *, char *); // define pointer to function of two `char *` arguments and return `int` type `PFI`.
+PFI strcmp, numcmp;
+```
+
+Formatted input: `Scanf`:
+
+```c
+// sample input: 25 Dec 1988
+int day, year;
+char monthname[20];
+
+scanf("%d %s %d", &day, monthname, &year);
+```
+
+Loop and free items:
+
+```c
+for(p = head; p != NULL; p = p->next) // use pointer after it has been freed is ***WRONG***
+    free(p);
+
+// The right way:
+for(p = head; p != NULL; p = q) {
+    q = p->next;
+    free(p);
+}
+```
+
+Generate random floating-point number >= 0 and < 1:
+
+```c
+#define frand() ((double) rand() / (RAND_MAX+1.0))
+```
+
+Copy input to output with Unix interface:
+
+```c
+#include "syscall.h"
+
+main() {
+    char buf[BUFSIZ];
+    int n;
+
+    while((n = read(0, buf, BUFSIZ)) > 0)
+        write(1, buf, n);
+    return 0;
 }
 ```

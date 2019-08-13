@@ -78,6 +78,7 @@
 
 - [AWS Big Data Services](aws/aws-big-data-services.md)
 - [Cross AWS account access with IAM role](aws/cross-accont-access-iam-role.md)
+- [IAM Role](aws/iam-role.md)
 
 ### Big Data
 

@@ -7,5 +7,13 @@
 
 ## When to use?
 
-- Build data warehouse
-- Build data pipeline
+- Build data warehouse.
+- Build ETL data pipeline.
+- Catalog AWS data for queries with Athena/Redshift spectrum.
+
+## How Glue works?
+
+![How Glue works](HowGlueWorks-overview.png)
+
+<sup>from AWS Glue developer guide</sup>
+

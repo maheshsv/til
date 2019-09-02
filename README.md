@@ -31,6 +31,7 @@
 * [Micro-service](#micro-service)
 * [MySQL](#mysql)
 * [Networking](#networking)
+* [Operating Systems](#operating-system)
 * [Programming Languages](#programming-languages)
 * [Protocols](#protocols)
 * [Python](#python)

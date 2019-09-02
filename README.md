@@ -32,6 +32,7 @@
 * [MySQL](#mysql)
 * [Networking](#networking)
 * [Operating Systems](#operating-system)
+* [Papers](#papers)
 * [Programming Languages](#programming-languages)
 * [Protocols](#protocols)
 * [Python](#python)
@@ -235,6 +236,10 @@
 ### Operating System
 
 * [Thread Safety](operating_system/thread-safety.md)
+
+### Papers
+
+* [MapReduce: Simplified Data Processing on Large Clusters](papers/mapreduce.md)
 
 ### Programming Languages
 

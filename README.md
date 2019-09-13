@@ -185,6 +185,7 @@
 - [SimpleDateFormat Not Thread Safe Example](java/simpledateformat-thread-unsafe.md)
 - [Java Reflection Elements](java/reflection-elements.md)
 - [Guice](java/guice.md)
+- [Static Block](java/static-block.md)
 
 ### JavaScript
 

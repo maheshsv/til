@@ -82,6 +82,7 @@
 - [Cross AWS account access with IAM role](aws/cross-accont-access-iam-role.md)
 - [IAM Role](aws/iam-role.md)
 - [AWS Glue](aws/aws-glue.md)
+- [Amazon VPC](aws/amazon-vpc.md)
 
 ### Big Data
 

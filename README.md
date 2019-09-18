@@ -92,6 +92,7 @@
 * [AWS Athena](big_data/aws-athena.md)
 * [Elements of Scale](big_data/elements-of-scale.md)
 * [Apache Parquet](big_data/apache-parquet.md)
+* [HDFS High Availability](big_data/hdfs-ha.md)
 
 ### Books
 

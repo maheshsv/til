@@ -83,6 +83,7 @@
 - [IAM Role](aws/iam-role.md)
 - [AWS Glue](aws/aws-glue.md)
 - [Amazon VPC](aws/amazon-vpc.md)
+- [AWS CLI](aws/aws-cli.md)
 
 ### Big Data
 

@@ -310,6 +310,7 @@
 - [Guesture Input on TV](thoughts/guesture-input-on-TV.md)
 - [Netflix Culture Deck](thoughts/netflix-culture-deck.md)
 - [高效学习](thoughts/高效学习.md)
+- [Achievements?](thoughts/achievements.md)
 
 ### Tips
 

@@ -209,6 +209,7 @@
 * [SSH Bind Address](linux/ssh-bind-address.md)
 * [awk](linux/awk.md)
 * [8 super heroic Linux commands](linux/8-super-heroic-linux-commands.md)
+* [xargs](linux/xargs.md)
 
 ### Mac
 

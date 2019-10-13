@@ -312,6 +312,7 @@
 - [Netflix Culture Deck](thoughts/netflix-culture-deck.md)
 - [高效学习](thoughts/高效学习.md)
 - [Achievements?](thoughts/achievements.md)
+- [什么是云计算?](thoughts/what-is-cloud-computing.md)
 
 ### Tips
 

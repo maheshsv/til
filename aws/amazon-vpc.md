@@ -10,3 +10,9 @@ Here is the [documentation](https://docs.aws.amazon.com/vpc/latest/userguide/wha
 
 **subnet**: a range of IP addresses in your VPC. There are public and private subnets. Public subnet has a route to an Internet gateway.
 
+**route table**: a set of rules/routes used to determine where network traffic is directed.
+
+**internet gateway**: highly available VPC component allows communication between instances in VPC and internet.
+
+**VPC endpoint**: enable private connect VPC to supported AWS services.
+

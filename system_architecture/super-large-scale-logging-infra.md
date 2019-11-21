@@ -10,5 +10,6 @@
 
 ![logging service architecture](logging-service-architecture.png)
 
-以上。
+补充：
 
+从Elasticsearch的full text index到类似于map reduce的full scan，这是一个design spectrum，可以根据具体的需求在这个空间里进行取舍。

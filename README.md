@@ -304,6 +304,7 @@
 - [Design Uber](system_architecture/design-uber.md)
 - [接入层Scale Out](system_architecture/gateway-scale-out.md)
 - [超大规模日志存储、分析系统构架](system_architecture/super-large-scale-logging-infra.md)
+- [Large Scale Distributed Storage System](system_architecture/large-scale-distributed-storage-system.md)
 
 ### Thoughts
 

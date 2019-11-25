@@ -1,6 +1,6 @@
 # Large Scale Distributed Storage System
 
-(Building a Large-scale Distributed Storage System Based on Raft)[https://www.cncf.io/blog/2019/11/04/building-a-large-scale-distributed-storage-system-based-on-raft/].
+[Building a Large-scale Distributed Storage System Based on Raft](https://www.cncf.io/blog/2019/11/04/building-a-large-scale-distributed-storage-system-based-on-raft/).
 
 Two key points of designing a distributed storage system:
 - sharding

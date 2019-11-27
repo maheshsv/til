@@ -272,6 +272,7 @@
 * [Curses Programming](python/curses-programming.md)
 * [Python Excel XlsxWriter](python/python-excel-xlsxwriter.md)
 * [Beautiful Soup](python/beautiful-soup.md)
+* [help function](python/help-function.md)
 
 ### Redis
 

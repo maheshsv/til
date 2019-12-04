@@ -15,6 +15,7 @@
 * [Books](#books)
 * [Computer Science Classics](#computer-science-classics)
 * [Conference](#conference)
+* [Cool Technologies](#cool-technologies)
 * [Database](#database)
 * [Design Patterns](#design-patterns)
 * [Docker/Kubernetes](#dockerkubernetes)
@@ -116,6 +117,10 @@
 - [Alibaba Database Meetup](conference/Alibaba-database-meetup.md)
 - [Code BEAM SF 2018](conference/code-beam-sf-2018.md)
 - [Data Orchestration Summit 2019](conference/data-orchestration-summit-2019.md)
+
+### Cool Technologies
+
+- [Cool Technologies](cool_techs/cool-techs.md)
 
 ### Database
 

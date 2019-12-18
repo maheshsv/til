@@ -6,4 +6,4 @@
 
 我们今天debug的方式主要是打log，然后有一套log收集，处理，查询的系统。有什么问题的时候到这个log service上去查询。这样有效，但是效率并不是太高，而且如果没有log那就更麻烦了。另外还有成本的问题，数据量不太大的时候可以直接全扔给Elasticsearch之类的系统里，数据量大了之后Elasticsearch太昂贵，而且无法scale上去。当然这个问题也是有人在解决的，比如AWS的[Ultrawarm](https://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/ultrawarm.html)。另外一个思路是动态追踪(Dynamic tracing)，这种『黑科技』很厉害，但是掌握的人少，而且对于大型系统，面对成千上万台机器，怎么去一个个的做动态追踪呢？
 
-我理想中的方案是：不用打log，也不用一台一台的机器去看，对于一个api service，对于每一个request，都能够有code path信息，而且每一行code的input/output data也要有，这样才能真正搞清楚这个request的来龙去脉，才能轻松的debug。这个只是针对一个场景下的一种方案，也许还有别的方案，但是总之我的目标是能够最轻松，最准确的debug问题。
+我理想中的方案是：不用打log，也不用一台一台的机器去看，对于一个api service，对于每一个request，都能够有code path信息，而且每一行code的input/output data也要有，这样才能真正搞清楚这个request的来龙去脉，才能轻松的debug。有点像在IDE里调试代码的感觉。当然这个只是针对一个场景下的一种方案，也许还有别的方案，但是总之目标是要能够最轻松，最准确的debug问题。

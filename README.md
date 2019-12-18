@@ -323,6 +323,7 @@
 - [Achievements?](thoughts/achievements.md)
 - [什么是云计算?](thoughts/what-is-cloud-computing.md)
 - [价熵比](thoughts/价熵比.md)
+- [Debuggable Service](thoughts/debuggable-service.md)
 
 ### Tips
 

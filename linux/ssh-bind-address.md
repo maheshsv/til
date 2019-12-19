@@ -32,3 +32,15 @@ Connection to port 8080 on remote host will tunneled back to localhost 80.
 
 Refer to [SSH Port Forwarding Example](https://www.ssh.com/ssh/tunneling/example).
 
+### Test
+
+On remote server, let's say it's `example.com`. Run a simple web server with:
+
+```bash
+python -m SimpleHTTPServer 8000 # python2
+
+# or
+python3 -m http.server # python3
+```
+
+On local machine, run `ssh -L 8000:localhost:8000 example.com`. And then access remote server with `curl localhost:8000`.

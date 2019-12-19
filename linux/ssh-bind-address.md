@@ -44,3 +44,5 @@ python3 -m http.server # python3
 ```
 
 On local machine, run `ssh -L 8000:localhost:8000 example.com`. And then access remote server with `curl localhost:8000`.
+
+And we can run a web server on local machine with `python -m SimpleHTTPServer 9000` and remote forward with `ssh -R 7777:localhost:9000` which connect port 9000 with 7777 on remote host. And then access local web server on remote server with `curl localhost:7777`.

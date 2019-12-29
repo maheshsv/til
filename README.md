@@ -253,6 +253,7 @@
 
 * [MapReduce: Simplified Data Processing on Large Clusters](papers/mapreduce.md)
 * [Fast Scans on Key-Value Stores](papers/fast-scan-on-key-value-stores.md)
+* [Snowflake & Elastic Data Warehouse](papers/snowflake-elastic-data-warehouse.md)
 
 ### Programming Languages
 

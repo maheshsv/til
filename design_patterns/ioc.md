@@ -1,6 +1,6 @@
 # Inversion of Control
 
-IoC, Inversion of Control is a common design pattern in extending frameworks. 
+IoC, Inversion of Control is a common design pattern in extending frameworks.
 
 A sample **in control** code looks like:
 
@@ -10,7 +10,7 @@ do_something_B()
 do_something_C()
 ```
 
-Which means you are controling every action, when to call them.
+Which means you are controlling every action, when to call them.
 
 ### IoC in a framework
 
@@ -24,7 +24,7 @@ class ClientsController < ApplicationController
 end
 ```
 
-In this case we don't call `ClientsController` ourselve. It's called by the framework, that's **Inversion of Control**.
+In this case we don't call `ClientsController` by ourselves. It's called by the framework, that's **Inversion of Control**.
 
 > Inversion of Control is a key part of what makes a framework different to a library.
 
@@ -35,5 +35,5 @@ In this case we don't call `ClientsController` ourselve. It's called by the fram
 
 DI, dependency injection is one style of IoC.
 
-A good read of Ioc is [here](https://martinfowler.com/bliki/InversionOfControl.html) by Martin Fowler.
+A good read of IoC is [here](https://martinfowler.com/bliki/InversionOfControl.html) by Martin Fowler.
 

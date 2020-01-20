@@ -97,6 +97,7 @@
 * [Apache Parquet](big_data/apache-parquet.md)
 * [Apache Arrow](big_data/apache-arrow.md)
 * [HDFS High Availability](big_data/hdfs-ha.md)
+* [Concerns of Big Data Service](big_data/big-data-components.md)
 
 ### Books
 

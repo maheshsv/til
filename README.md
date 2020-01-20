@@ -85,6 +85,7 @@
 - [AWS Glue](aws/aws-glue.md)
 - [Amazon VPC](aws/amazon-vpc.md)
 - [AWS CLI](aws/aws-cli.md)
+- [AWS Lake Formation](aws/lake-formation.md)
 
 ### Big Data
 

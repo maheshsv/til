@@ -282,6 +282,7 @@
 * [Python Excel XlsxWriter](python/python-excel-xlsxwriter.md)
 * [Beautiful Soup](python/beautiful-soup.md)
 * [help function](python/help-function.md)
+* [Import from zip file](python/import-from-zip-file.md)
 
 ### Redis
 
